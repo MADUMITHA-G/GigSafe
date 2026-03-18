@@ -1,4 +1,6 @@
 #  GigSafe: Income Protection for Food Delivery Partners
+An AI-powered parametric insurance infrastructure that protects gig workers from income loss due to real-world disruptions.
+
 ##  📌problem statement
 India’s food delivery partners on platforms like Swiggy and Zomato form the backbone of the on-demand economy. However, their income is highly vulnerable to external disruptions such as extreme weather (heavy rain, flooding), local restrictions, platform outages, and sudden drops in order demand.
 
@@ -84,7 +86,7 @@ GigSafe introduces a *dual-trigger system*:
 
 Premium is calculated dynamically using:
 
-*Premium = Base × Zone Risk × Seasonal Factor*
+    Premium = Base × Zone Risk × Seasonal Factor
 
 Example:
 
