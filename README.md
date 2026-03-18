@@ -1,5 +1,6 @@
 #  GigSafe: Income Protection for Food Delivery Partners
-##Problem Statement
+## Problem Statement
+
 India’s food delivery partners on platforms like Swiggy and Zomato form the backbone of the on-demand economy. However, their income is highly vulnerable to external disruptions such as extreme weather (heavy rain, flooding), local restrictions, platform outages, and sudden drops in order demand.
 
 Since delivery partners earn on a per-order basis, even short-term disruptions can significantly reduce their working hours, leading to 20–30% loss in income.
